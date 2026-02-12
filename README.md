@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<p align="center">🌐 Actively engaged in developing advanced IoT systems and Linux-based embedded projects<br>👨‍🎓 Pursuing a degree in Computer Science and Engineering with a specialization in IoT technologies<br>🤖 Designing and implementing smart systems, including access control, color recognition, and input device replication<br>🖥️ Exploring complex system integrations and MQTT-based communication frameworks<br>📘 Expanding expertise in Linux OS and embedded systems development<br>🎮 Focused on game development and reverse engineering, with a strong interest in system architecture and innovation</p>
+<p align="center">🌐 Actively engaged in developing advanced IoT systems and Linux-based embedded projects<br>👨‍🎓 Got a degree in Computer Science and Engineering with a specialization in IoT technologies<br>🤖 Designing and implementing smart systems, including access control, color recognition, and input device replication<br>🖥️ Exploring complex system integrations and MQTT-based communication frameworks<br>📘 Expanding expertise in Linux OS and embedded systems development<br>🎮 Focused on game development and reverse engineering, with a strong interest in system architecture and innovation</p>
 
 ###
 
